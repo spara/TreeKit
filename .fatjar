@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Feb 14 08:38:55 CST 2010
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=bin/FieldDataTool0.2.jar
+manifest.mergeall=true
+manifest.mainclass=org.stem.utilities.FieldDataTool
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
